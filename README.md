@@ -22,37 +22,38 @@
    <li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/brin(9).pdf" style="text-decoration:none;">Concurrent Spatial and Channel 'Squeeze and Excitation' in Fully Convolutional Networks</a></li>
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/brin(10).pdf" style="text-decoration:none;">Denoising Distant Supervision for Relation Extraction via Instance-Level Adversarial Training</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/brin(11).pdf" style="text-decoration:none;">Enriching Pre-trained Language Model with Entity Information for Relation Classification</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/brin(12).pdf" style="text-decoration:none;">Self-Attention Enhanced Selective Gate with Entity-Aware Embedding for Distantly Supervised Relation Extraction</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/brin(13).pdf" style="text-decoration:none;">Coreference based event-argument relation extraction on biomedical text</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/brin(10).pdf" style="text-decoration:none;">HyperDense-Net: A hyper-densely connected CNN for multi-modal image segmentation</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/brin(11).pdf" style="text-decoration:none;">Spatially Localized Atlas Network Tiles Enables 3D Whole Brain Segmentation from Limited Data</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/brin(12).pdf" style="text-decoration:none;">MRI Super-Resolution using Multi-Channel Total Variation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/brin(13).pdf" style="text-decoration:none;">Few-shot 3D Multi-modal Medical Image Segmentation using Generative Adversarial Learning</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/brin(14).pdf" style="text-decoration:none;">Semi-Markov Conditional Random Fields for Information Extraction</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/brin(14).pdf" style="text-decoration:none;">Bayesian QuickNAT: Model Uncertainty in Deep Whole-Brain Segmentation for Structure-wise Quality Control</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/brin(15).pdf" style="text-decoration:none;">Subsequence Kernels for Relation Extraction</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/brin(15).pdf" style="text-decoration:none;">3D Whole Brain Segmentation using Spatially Localized Atlas Network Tiles</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/brin(16).pdf" style="text-decoration:none;">Hybrid Attention-Based Prototypical Networks for Noisy Few-Shot Relation Classification</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/brin(16).pdf" style="text-decoration:none;">On Direct Distribution Matching for Adapting Segmentation Networks</a></li>
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/brin(17).pdf" style="text-decoration:none;"> Distributed Representations of Words and Phrases and their Compositionality</a></li>   
+  <li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/brin(17).pdf" style="text-decoration:none;"> Unsupervised Deep Learning for
+Bayesian Brain MRI Segmentation</a></li>   
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/brin(18).pdf" style="text-decoration:none;">Translating Embeddings for Modeling Multi-relational Data</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/brin(18).pdf" style="text-decoration:none;">Association of genomic subtypes of lower-grade gliomas with shape features automatically extracted by a deep learning algorithm</a></li> 
 
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/brin(19).pdf" style="text-decoration:none;">Relation Extraction from Wikipedia Using Subtree Mining</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/brin(19).pdf" style="text-decoration:none;">'Project and Excite' Modules for Segmentation of Volumetric Medical Scans</a></li> 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/brin(20).pdf" style="text-decoration:none;">A Review of Relation Extraction</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/brin(20).pdf" style="text-decoration:none;">DARTS (DenseUnet-based Automatic Rapid Tool for brain Segmentation)</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/brin(21).pdf" style="text-decoration:none;"> Probabilistic Reasoning for Entity and Relation Recognition </a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/brin(22).pdf" style="text-decoration:none;">Jointly Identifying Entities and Extracting Relations in Encyclopedia Text via A Graphical Model Approach </a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/brin(21).pdf" style="text-decoration:none;"> End-to-end semantic segmentation of personalized deep brain structures for non-invasive brain stimulation </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/brin(22).pdf" style="text-decoration:none;">MixNet: Multi-modality Mix Network for Brain Segmentation </a></li> 
  
  
  
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/brin(23).pdf" style="text-decoration:none;">Relation Classification via Convolutional Deep Neural Network</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/brin(23).pdf" style="text-decoration:none;">A Contrast-Adaptive Method for Simultaneous Whole-Brain and Lesion Segmentation in Multiple Sclerosis</a></li> 
  
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/brin(24).pdf" style="text-decoration:none;">Semantic Relation Classification via Hierarchical Recurrent Neural Network with Attention</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/brin(24).pdf" style="text-decoration:none;">Uncertainty-Guided Efficient Interactive Refinement of Fetal Brain Segmentation from Stacks of MRI Slices</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/brin(25).pdf" style="text-decoration:none;">Adversarial Multi-lingual Neural Relation Extraction</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/brin(25).pdf" style="text-decoration:none;">A Learning Strategy for Contrast-agnostic MRI Segmentation</a></li>                              
 </ul>
