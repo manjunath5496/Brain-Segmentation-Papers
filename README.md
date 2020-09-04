@@ -15,7 +15,7 @@
 
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/brin(5).pdf" style="text-decoration:none;">3D Densely Convolutional Networks for Volumetric Segmentation</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/brin(6).pdf" style="text-decoration:none;">3D Densely Convolutional Networks for Volumetric Segmentation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/brin(6).pdf" style="text-decoration:none;">Brain Image Segmentation</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/brin(7).pdf" style="text-decoration:none;">Combining Neural Networks and Log-linear Models to Improve Relation Extraction</a></li>
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/brin(8).pdf" style="text-decoration:none;"> Quantitative analysis of patch-based fully convolutional neural networks for tissue segmentation on brain magnetic resonance imaging</a></li>
@@ -55,5 +55,12 @@ Bayesian Brain MRI Segmentation</a></li>
 
    <li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/brin(24).pdf" style="text-decoration:none;">Uncertainty-Guided Efficient Interactive Refinement of Fetal Brain Segmentation from Stacks of MRI Slices</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/brin(25).pdf" style="text-decoration:none;">A Learning Strategy for Contrast-agnostic MRI Segmentation</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/brin(25).pdf" style="text-decoration:none;">A Learning Strategy for Contrast-agnostic MRI Segmentation</a></li>   
+   
+<li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/brin(26).pdf" style="text-decoration:none;">Methods and Techniques for Brain Image Segmentation</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Brain-Segmentation-Papers/blob/master/brin(27).pdf" style="text-decoration:none;">Machine Learning for Brain Image Segmentation</a></li>   
+    
+   
+   
 </ul>
